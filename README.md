@@ -3,7 +3,7 @@
 ### 🌱 Accounts Analyst transitioning into Data Analytics & Programming
 
 I'm currently learning programming and data tools to switch careers into tech.  
-Based in Montevideo, Uruguay 🇺🇾
+Based in Montevideo, Uruguay 🇺🇾 . 32 years old
 
 ---
 
@@ -44,6 +44,7 @@ Based in Montevideo, Uruguay 🇺🇾
 ### 📫 How to reach me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maría-luz-portillo-de-mello-7b8592254)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdemello019@gmail.com)
 
 ---
 
