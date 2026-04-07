@@ -1,9 +1,16 @@
 ## # Hi, I'm Luz! 👋
 
+![Age](https://img.shields.io/badge/AGE-32-orange?style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=MariaLuzPdM&label=PROFILE+VIEWS&color=brightgreen&style=flat-square)
+
+### 🌱 Accounts Analyst transitioning...
+
 ### 🌱 Accounts Analyst transitioning into Data Analytics & Programming
 
 I'm currently learning programming and data tools to switch careers into tech.  
-Based in Montevideo, Uruguay 🇺🇾 . 32 years old
+Based in Montevideo, Uruguay 🇺🇾 
+
+### 🌱 Accounts Analyst transitioning...
 
 ---
 
