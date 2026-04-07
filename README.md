@@ -13,8 +13,11 @@ Based in Montevideo, Uruguay 🇺🇾
 
 ### 🚀 What I'm learning right now
 
-- 🐍 Python (basics → intermediate)
-- 📊 Google Data Analytics Certificate (Coursera)
+### 🚀 What I'm learning right now
+
+- 🐍 Python basics & intermediate (Coursera - Universidad Nacional de Colombia)
+- 🖥️ Google IT Support Certificate (Coursera - Google)
+- 📊 Google Data Analytics Certificate (Coursera - Google)
 - 🔢 Data Analysis tools: Excel, SQL, R, Tableau
 
 ---
